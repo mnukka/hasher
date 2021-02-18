@@ -1,4 +1,4 @@
-package api;
+package com.github.hasher.mnukka.api;
 
 /*
  * Copyright 2013 David Curtis

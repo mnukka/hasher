@@ -1,4 +1,4 @@
-package api;
+package com.github.hasher.mnukka.api;
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one or more

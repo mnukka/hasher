@@ -1,4 +1,4 @@
-package api;
+package com.github.hasher.mnukka.api;
 
 /**
  * @(#) JenkinsHash.java 2011-08-18
